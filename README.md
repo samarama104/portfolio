@@ -1,21 +1,45 @@
-# portfolio
-# Hi, I'm Samantha 👋
+# Hi, I'm Samantha Devetski 👋
 
-I'm a Civil Engineer turned Software Engineer and Data Analyst.
+## About Me
 
-I recently completed my Master's in Computer Science and I'm building a portfolio of software engineering, data analysis, and machine learning projects.
+I'm a Construction Project Manager transitioning into Software Engineering and Data Analytics after completing my Master of Science in Computer Science at Case Western Reserve University.
 
-## Skills
+I'm passionate about solving problems with software, data, and automation. This repository documents the projects I'm building as I continue developing my skills in Python, SQL, machine learning, and software engineering.
 
+---
+
+## Technical Skills
+
+**Languages**
 - Python
 - SQL
 - Java
-- Git & GitHub
-- Data Analysis
-- Machine Learning
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 - Excel
 - Bluebeam
 
-## Projects
+**Currently Learning**
+- Machine Learning
+- Data Engineering
+- Cloud Computing
 
-Projects coming soon!
+---
+
+## Portfolio Projects
+
+Projects will be added here as they are completed.
+
+- Data Analysis Project #1 *(Coming Soon)*
+- Python Automation Project *(Coming Soon)*
+- SQL Portfolio Project *(Coming Soon)*
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/samdevetski
